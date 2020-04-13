@@ -1,2 +1,2 @@
 # Python
-Sharing ideas on Python programaming
+Sharing ideas and learnings of on Python programaming
